@@ -26,6 +26,7 @@ This is a basic Library Management System implemented using CRUD operations and 
 ![Add_Operation](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/ADD_OPERATION.png)
 
 ### READ_OPERATION
+![READ_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/READ_OPERATION.png)
 ### UPDATE_OPERATION
 ### DELETE_OPERATION
 ### EXIT_OPERATION
