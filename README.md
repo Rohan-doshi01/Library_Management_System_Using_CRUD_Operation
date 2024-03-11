@@ -79,5 +79,6 @@ This option will list all the books currently in the library.
 ### DELETE_OPERATION
 ![DELETE_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/DELETE_OPERATION.png)
 
-### EXIT_OPERATION
-https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/EXIT_OPEERATION.png
+### EXIT_SYSTEM_OPERATION
+![DELETE_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/EXIT_OPEERATION.png)
+
