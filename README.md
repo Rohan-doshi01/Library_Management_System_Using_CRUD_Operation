@@ -22,6 +22,15 @@ This is a basic Library Management System implemented in Java, showcasing CRUD o
 
    ```bash
    cd library-management-system
+   
+2. **Compile the Java files:**
+   ```bash
+   javac Controller/Controller.java Model/Books.java View/View.java Library.java
+
+3. **Run the application:**
+   ```bash
+   java Library 
+   
 
 ## Usage
 
@@ -54,3 +63,21 @@ Follow the prompts to perform the desired actions.
 
 This option will list all the books currently in the library.
 
+## Screenshots
+
+### SELECT_OPERATION
+![SELECT_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/SELECTION_OF_CRUD_OPERATION.png)
+### ADD_OPERATION
+![Add_Operation](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/ADD_OPERATION.png)
+
+### READ_OPERATION
+![READ_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/READ_OPERATION.png)
+
+### UPDATE_OPERATION
+![UPDATE OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/UPDATED_OPERATION.png)
+
+### DELETE_OPERATION
+![DELETE_OPERATION](https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/DELETE_OPERATION.png)
+
+### EXIT_OPERATION
+https://github.com/Rohan-doshi01/Library_Management_System_Using_CRUD_Operation/blob/main/EXIT_OPEERATION.png
